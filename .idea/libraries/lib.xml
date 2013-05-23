@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://E:/Tools/Java/lib/servlet-api-3.0.jar!/" />
+      <root url="jar://E:/Tools/Java/lib/aspectwerkz-nodeps-jdk5-2.0.jar!/" />
+      <root url="jar://E:/Tools/Java/lib/jdom-1.1.3/jdom/build/jdom-1.1.3.jar!/" />
+      <root url="jar://E:/Tools/Java/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://E:/Tools/Java/lib/log4j-1.2.11.jar!/" />
+      <root url="jar://E:/Tools/Java/lib/castor-1.1.2.jar!/" />
+      <root url="jar://E:/Tools/Java/lib/hibernate2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
